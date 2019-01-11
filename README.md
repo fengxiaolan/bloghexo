@@ -1,7 +1,7 @@
-# bloghexo
-hexo快速构建博客
----
-参考文档: [Hexo](https://hexo.io/zh-cn/docs/)
+
+hexo快速构建博客  
+
+文档: [Hexo](https://hexo.io/zh-cn/docs/)
 ---
 
 git提交需全局设置 -  git config --global credential.helper wincred  
