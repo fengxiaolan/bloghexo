@@ -1,5 +1,5 @@
 
-hexo快速构建博客  
+hexo+github快速构建博客  
 
 文档: [Hexo](https://hexo.io/zh-cn/docs/)
 ---
